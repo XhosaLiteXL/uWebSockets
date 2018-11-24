@@ -1,9 +1,9 @@
 <div align="center">
 <img src="misc/logo.svg" height="180" />
-    
-*µWS ("[micro](https://en.wikipedia.org/wiki/Micro-)WebSockets") is simple, secure & standards compliant I/O for intense*<sup>[[1]](benchmarks)</sup> *workloads and/or small devices.*
+   
+*µWebSockets™ ("[micro](https://en.wikipedia.org/wiki/Micro-)") is simple, secure & standards compliant web I/O for intense*<sup>[[1]](benchmarks)</sup> *and/or constrained use cases.*
 
-• [Fancy pants details, user manual and FAQ](misc/READMORE.md)
+• [Read more](misc/READMORE.md)
 
 </div>
 
